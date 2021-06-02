@@ -53,7 +53,7 @@
   <div><img src="flags/ck.svg" width="100"/><p>Cook Islands (<code>CK</code>)</p></div>
   <div><img src="flags/cl.svg" width="100"/><p>Chile (<code>CL</code>)</p></div>
   <div><img src="flags/cm.svg" width="100"/><p>Cameroon (<code>CM</code>)</p></div>
-  <div><img src="flags/cn.svg" width="100"/><p>China (<code>CN</code>)</p></div>
+  <div><img src="flags/cn.svg" width="100"/><p>中国 (<code>CN</code>)</p></div>
   <div><img src="flags/co.svg" width="100"/><p>Colombia (<code>CO</code>)</p></div>
   <div><img src="flags/cr.svg" width="100"/><p>Costa Rica (<code>CR</code>)</p></div>
   <div><img src="flags/cu.svg" width="100"/><p>Cuba (<code>CU</code>)</p></div>
